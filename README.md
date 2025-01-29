@@ -1,4 +1,4 @@
-**##MediBERT: AI-Powered Medical Diagnosis Classifier##**
+**MediBERT: AI-Powered Medical Diagnosis Classifier**
 **Overview**
 
 MediBERT is an AI-driven medical diagnosis classification system that leverages deep learning and NLP techniques to classify medical diagnoses from textual reports with high accuracy. By extracting relevant keywords using DistilBERT and training a BERT-based model, the system enhances medical decision support through automated text classification.
